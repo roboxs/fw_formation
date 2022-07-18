@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libvir_sim_leader.so -o /home/xiaodu/fw_formation/devel/lib/libvir_sim_leader.so CMakeFiles/vir_sim_leader.dir/src/test/vir_leader/vir_sim_leader.cpp.o 

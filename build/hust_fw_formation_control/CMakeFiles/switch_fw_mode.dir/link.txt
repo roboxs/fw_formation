@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libswitch_fw_mode.so -o /home/xiaodu/fw_formation/devel/lib/libswitch_fw_mode.so CMakeFiles/switch_fw_mode.dir/src/test/switch_fw_mode/switch_fw_mode.cpp.o 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libtecs.so -o /home/xiaodu/fw_formation/devel/lib/libtecs.so CMakeFiles/tecs.dir/src/fixed_wing_lib/vertical_controller/tecs.cpp.o 

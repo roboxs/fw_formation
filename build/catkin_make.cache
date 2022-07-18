@@ -1,0 +1,2 @@
+hust_fw_formation_control
+-DCATKIN_DEVEL_PREFIX=/home/xiaodu/fw_formation/devel -DCMAKE_INSTALL_PREFIX=/home/xiaodu/fw_formation/install -G Unix Makefiles

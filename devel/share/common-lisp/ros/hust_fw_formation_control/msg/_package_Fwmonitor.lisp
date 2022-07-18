@@ -1,0 +1,18 @@
+(cl:in-package hust_fw_formation_control-msg)
+(cl:export '(PLANEID-VAL
+          PLANEID
+          FW_COMPLETE_IDEL-VAL
+          FW_COMPLETE_IDEL
+          FW_IS_CONNECTED-VAL
+          FW_IS_CONNECTED
+          FW_IS_WELLCTRLLED-VAL
+          FW_IS_WELLCTRLLED
+          FW_COMPLETE_TAKEOFF-VAL
+          FW_COMPLETE_TAKEOFF
+          FW_COMPLETE_LANDED-VAL
+          FW_COMPLETE_LANDED
+          FORMATION_DISTANCE_COMPLETE-VAL
+          FORMATION_DISTANCE_COMPLETE
+          FORMATION_TIME_COMPLETE-VAL
+          FORMATION_TIME_COMPLETE
+))

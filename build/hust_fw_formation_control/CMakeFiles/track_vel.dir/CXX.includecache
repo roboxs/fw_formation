@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xiaodu/fw_formation/src/hust_fw_formation_control/src/fixed_wing_lib/lateral_controller/L1_controller.hpp
+../mathlib.hpp
+/home/xiaodu/fw_formation/src/hust_fw_formation_control/src/fixed_wing_lib/mathlib.hpp
+../vector.hpp
+/home/xiaodu/fw_formation/src/hust_fw_formation_control/src/fixed_wing_lib/vector.hpp
+iostream
+-
+math.h
+-
+
+/home/xiaodu/fw_formation/src/hust_fw_formation_control/src/fixed_wing_lib/lateral_controller/track_vel.cpp
+track_vel.hpp
+/home/xiaodu/fw_formation/src/hust_fw_formation_control/src/fixed_wing_lib/lateral_controller/track_vel.hpp
+
+/home/xiaodu/fw_formation/src/hust_fw_formation_control/src/fixed_wing_lib/lateral_controller/track_vel.hpp
+L1_controller.hpp
+/home/xiaodu/fw_formation/src/hust_fw_formation_control/src/fixed_wing_lib/lateral_controller/L1_controller.hpp
+
+/home/xiaodu/fw_formation/src/hust_fw_formation_control/src/fixed_wing_lib/mathlib.hpp
+math.h
+-
+iostream
+-
+vector.hpp
+/home/xiaodu/fw_formation/src/hust_fw_formation_control/src/fixed_wing_lib/vector.hpp
+
+/home/xiaodu/fw_formation/src/hust_fw_formation_control/src/fixed_wing_lib/vector.hpp
+math.h
+-
+iostream
+-
+mathlib.hpp
+/home/xiaodu/fw_formation/src/hust_fw_formation_control/src/fixed_wing_lib/mathlib.hpp
+

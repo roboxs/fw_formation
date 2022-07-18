@@ -1,0 +1,8 @@
+prefix=/home/xiaodu/fw_formation/install
+
+Name: hust_fw_formation_control
+Description: Description of hust_fw_formation_control
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: mavros mavros_msgs roscpp rospy std_msgs geometry_msgs message_runtime
